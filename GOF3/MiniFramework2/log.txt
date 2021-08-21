@@ -1,0 +1,4 @@
+La operacion lleva el 25%
+La operacion lleva el 50%
+La operacion lleva el 75%
+La operacion lleva el 100%

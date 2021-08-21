@@ -1,0 +1,4 @@
+libro	autor	A32
+libro	pepe	A21
+libro	pepe	A223
+libro	pepe	A333
